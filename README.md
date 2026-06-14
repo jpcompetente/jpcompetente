@@ -14,9 +14,6 @@ Python • Django • React • PostgreSQL • Git
 - PLC + IoT Simulation Project
 - E-Commerce System
 
-## 📈 GitHub Stats
-(Stats Here)
-
 ## 📫 Contact
 Email: competente.jp07@gmail.com
 ## 📊 GitHub Stats

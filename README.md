@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
 
 # John Paul Competente
-### Full Stack Developer · AI Enthusiast · Computer Engineering Student
+### Full Stack Developer · AI Enthusiast · Computer Science and Information Technology Student
 
 <p><em>Building thoughtful software at the intersection of web and intelligence.</em></p>
 
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering student with a passion for building full-stack web applications and exploring the possibilities of AI. I enjoy turning ideas into clean, functional products — from designing intuitive UIs to architecting backends and experimenting with machine learning models.
+I'm a CS & IT student with a passion for building full-stack web applications and exploring the possibilities of AI. I enjoy turning ideas into clean, functional products — from designing intuitive UIs to architecting backends and experimenting with machine learning models.
 
 When I'm not coding, I'm usually learning something new at the edge of what technology can do.
 

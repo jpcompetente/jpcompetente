@@ -1,20 +1,12 @@
-# Hi there 👋
+# 👋 Hi, I'm John Paul Competente
 
-I'm John Paul Competente
+### Full Stack Developer | AI Enthusiast | Computer Engineering Student
 
-## 🚀 About Me
-- Computer Engineering Student
-- Full Stack Developer
-- Working with Django, React, PostgreSQL
-- Interested in AI, IoT, and Automation
+## 🚀 Current Project
+AI-Based Defect Detection System for Semiconductor Manufacturing
 
-## 🛠️ Tech Stack
-- Python
-- Django
-- React
-- PostgreSQL
-- JavaScript
-- Git & GitHub
+## 🛠 Tech Stack
+Python • Django • React • PostgreSQL • Git
 
 ## 📂 Current Projects
 - AI Defect Detection System
@@ -22,9 +14,11 @@ I'm John Paul Competente
 - PLC + IoT Simulation Project
 - E-Commerce System
 
-## 📫 Contact Me
-- Email: competente.jp07@gmail.com
+## 📈 GitHub Stats
+(Stats Here)
 
+## 📫 Contact
+Email: competente.jp07@gmail.com
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpcompetente&show_icons=true)

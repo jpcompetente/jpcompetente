@@ -20,6 +20,7 @@ I'm John Paul Competente
 - AI Defect Detection System
 - RFID & IoT Monitoring System
 - PLC + IoT Simulation Project
+- E-Commerce System
 
 ## 📫 Contact Me
-- Email: your-email@example.com
+- Email: competente.jp07@gmail.com

@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jpcompetente/jpcompetente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John Paul Competente
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Computer Engineering Student
+- Full Stack Developer
+- Working with Django, React, PostgreSQL
+- Interested in AI, IoT, and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Django
+- React
+- PostgreSQL
+- JavaScript
+- Git & GitHub
+
+## 📂 Current Projects
+- AI Defect Detection System
+- RFID & IoT Monitoring System
+- PLC + IoT Simulation Project
+
+## 📫 Contact Me
+- Email: your-email@example.com

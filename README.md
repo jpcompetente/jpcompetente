@@ -33,7 +33,7 @@ When I'm not coding, I'm usually learning something new at the edge of what tech
 
 ```python
 jp = {
-    "role":      "Full Stack Developer & CE Student",
+    "role":      "Full Stack Developer & CS &  IT Student",
     "focus":     ["Web Development", "AI/ML", "IoT"],
     "stack":     ["Python", "Vue.js", "FastAPI", "Django"],
     "databases": ["PostgreSQL", "MySQL", "MongoDB"],

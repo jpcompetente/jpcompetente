@@ -1,127 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=John%20Paul%20Competente&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20%26%20IT%20Student&descAlignY=55&descSize=16" width="100%"/>
 
-# John Paul Competente
-### Full Stack Developer · AI Enthusiast · Computer Science & Information Technology Student
+<p>
+  <em>Building thoughtful software at the intersection of web and intelligence.</em>
+</p>
 
-<p><em>Building thoughtful software at the intersection of web and intelligence.</em></p>
+<p>
+  <a href="https://facebook.com/jpcompetente07">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/jpcompetente07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/jpcompetente">
+    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
-<a href="https://facebook.com/jpcompetente07">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square"/>
-</a>
-<a href="https://linkedin.com/in/jpcompetente07">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square"/>
-</a>
-<a href="https://github.com/jpcompetente">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=flat-square"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;CS+%26+IT+Student+%F0%9F%8E%93;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;CS+%26+IT+Student+%F0%9F%8E%93;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=jpcompetente&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a CS & IT student with a passion for building full-stack web applications and exploring the possibilities of AI. I enjoy turning ideas into clean, functional products — from designing intuitive UIs to architecting backends and experimenting with machine learning models.
-
-When I'm not coding, I'm usually learning something new at the edge of what technology can do.
-
-```python
-jp = {
-    "role":      "Full Stack Developer & CS &  IT Student",
-    "focus":     ["Web Development", "AI/ML", "IoT"],
-    "stack":     ["Python", "Vue.js", "FastAPI", "Django"],
-    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-    "learning":  "Always.",
-}
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=jpcompetente&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jpcompetente&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=jpcompetente&theme=tokyonight&hide_border=true" height="165"/>
+## 👋 About Me
 
-</div>
+I'm a CS & IT student who loves turning ideas into clean, functional products — from designing intuitive UIs to architecting backends and experimenting with machine learning models. When I'm not coding, I'm usually learning something new at the edge of what technology can do.
 
----
+```python
+class JohnPaul:
+    def __init__(self):
+        self.role      = "Full Stack Developer & CS/IT Student"
+        self.focus     = ["Web Development", "AI/ML", "IoT"]
+        self.stack     = ["Python", "Vue.js", "FastAPI", "Django"]
+        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+        self.status    = "Always learning."
 
-## 🛠 Tech Stack
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
+
+jp = JohnPaul()
+jp.say_hi()
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
 **Backend**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-**Databases & Infrastructure**
+</td>
+<td valign="top" width="50%">
 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+**Databases & Infra**
 
-**AI & Hardware**
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+**AI, Hardware & Tools**
 
-**Tools & Design**
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jpcompetente&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcompetente&theme=tokyonight&hide_border=true&layout=compact&border_radius=10" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=jpcompetente&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
+
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br/>
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jpcompetente&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
+</details>
 
----
+<br/>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jpcompetente&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jpcompetente&theme=tokyo-night&hide_border=true&area=true&radius=10)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jpcompetente&color=58a6ff&style=flat-square&label=Profile+Views)
+### 💬 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+If you'd like to collaborate, talk tech, or just say hi — my socials are above. Always happy to connect with fellow builders!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>

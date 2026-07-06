@@ -89,6 +89,29 @@ jp.say_hi()
 
 <br/>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=jpcompetente&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jpcompetente&theme=tokyonight&hide_border=true&layout=compact&border_radius=10" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=jpcompetente&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
+
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br/>
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jpcompetente&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+</details>
+
+<br/>
+
 ## 📈 Contribution Activity
 
 <div align="center">

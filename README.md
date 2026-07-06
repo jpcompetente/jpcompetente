@@ -29,7 +29,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 I'm a CS & IT student who loves turning ideas into clean, functional products — from designing intuitive UIs to architecting backends and experimenting with machine learning models. When I'm not coding, I'm usually learning something new at the edge of what technology can do.
 
@@ -51,7 +51,7 @@ jp.say_hi()
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table width="100%">
 <tr>
@@ -89,7 +89,7 @@ jp.say_hi()
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -101,7 +101,7 @@ jp.say_hi()
 </div>
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
+<summary>GitHub Trophies</summary>
 <br/>
 <div align="center">
 
@@ -112,7 +112,7 @@ jp.say_hi()
 
 <br/>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -124,7 +124,7 @@ jp.say_hi()
 
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
 If you'd like to collaborate, talk tech, or just say hi — my socials are above. Always happy to connect with fellow builders!
 

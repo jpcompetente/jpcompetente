@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=John%20Paul%20Competente&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20%26%20IT%20Student&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header" width="100%"/>
+
+# John Paul Competente
+### Full Stack Developer · AI Enthusiast · Computer Science & Information Technology Student
 
 <p>
   <em>Building thoughtful software at the intersection of web and intelligence.</em>

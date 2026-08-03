@@ -6,7 +6,7 @@
 ### Full Stack Developer · AI Enthusiast · Computer Science & Information Technology Student
 
 <p>
-  <em>Building thoughtful software at the intersection of web and intelligence.</em>
+  <em>Building thoughtful software at the intersection of web and intelligence,.</em>
 </p>
 
 <p>
@@ -124,7 +124,7 @@ jp.say_hi()
 
 <div align="center">
 
-### Let's Connect
+### Let's Connectd
 
 If you'd like to collaborate, talk tech, or just say hi — my socials are above. Always happy to connect with fellow builders!
 
